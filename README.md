@@ -1,2 +1,2 @@
 # hello-world
-Firsta uppsetning
+Firsta uppsetning fyrir github.
